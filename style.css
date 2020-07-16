@@ -1,0 +1,65 @@
+* {
+  padding: 0em;
+  margin: 0em;
+}
+
+h1 {
+  text-align: center;
+  background: black;
+}
+
+h3 {
+  color: black;
+  margin: 10px;
+}
+
+body {
+  color: white;
+  font-family: "Bangers", cursive;
+  margin: 30px;
+  padding: 50px;
+}
+
+.img {
+  margin-left: 45%;
+}
+
+.grid {
+  background-image: linear-gradient(
+    orangered,
+    red,
+    orange,
+    blue,
+    hotpink,
+    purple,
+    black
+  );
+  padding: 20px;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 20px;
+}
+
+.box1 {
+  padding: 20px;
+  text-align: center;
+}
+
+.box2 {
+  padding: 20px;
+  text-align: center;
+}
+
+.box3 {
+  padding: 20px;
+  text-align: center;
+}
+
+.box4 {
+  padding: 20px;
+  text-align: center;
+}
+
+.tuvi {
+  padding: 20px;
+  text-align: center;
+}
